@@ -1,4 +1,4 @@
-#import "template": *
+#import "": *
 
 #show: resume.with(
   name: "Anubhav",
